@@ -10,7 +10,7 @@ export default function(){
                 <FaHome className="inline-block mr-3"/>INTRODUCTON
             </h3>
             <p className="my-3 text-3xl font-semibold md:text-5xl">
-                Hello from <span className="text-green-500">Nischal</span>, your web wizard and developer!
+                Hello from <span className="text-green-500">Nischal</span>, your web developer!
             </p>
             <p className="text-md text-zinc-300">
                 I'm a web developer with a passion for creating innovative and user-friendly websites.
