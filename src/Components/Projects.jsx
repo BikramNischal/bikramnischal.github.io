@@ -21,15 +21,15 @@ export default function Projects() {
                 </div>
                 <div>
                     <ProjectDisplay isLive={false}
-                        imgsrc="randomwalk.png" 
-                        codelink="https://github.com/BikramNischal/1000steps" />
-                    <p className="text-xs font-bold text-slate-300 hover:underline md:text-xl">Random Walk Graph</p>
+                        imgsrc="local-library.png" 
+                        codelink="https://github.com/BikramNischal/local-library" />
+                    <p className="text-xs font-bold text-slate-300 hover:underline md:text-xl">Local Library</p>
                 </div>
                 <div>
                     <ProjectDisplay isLive={false}
                         imgsrc="news-home-page.png" 
                         codelink="https://github.com/BikramNischal/news-homepage" />
-                    <p className="text-xs font-bold text-slate-300 hover:underline md:text-xl">News Website Home Page</p>
+                    <p className="text-xs font-bold text-slate-300 hover:underline md:text-xl">News Website Home Page(Fontend only)</p>
                 </div>
             </div>
         </div>

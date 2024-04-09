@@ -42,7 +42,7 @@ export default function () {
 
                     <div className="min-w-[150px] max-w-[250px] max-h[50px]">
                         <p className="font-bold text-green-500">2019-Present</p>
-                        <p className="font-bold text-xl">BSc CSIT Running (7th sem)</p>
+                        <p className="font-bold text-xl">BSc CSIT Running (8th sem)</p>
                          <p>Currently Student At Amrit Science Campus</p>
                     </div>
                     <div className="min-w-[150px] max-w-[250px] max-h[50px]">
